@@ -216,7 +216,7 @@ function populateGrid(gridMap) {
                     }
                     case "X":
                     {
-                        backgroundImage = ''; break; // space is transparent
+                        backgroundImage = 'textures/transparent.png'; break; // space is transparent
                     }
                     default:
                     {
